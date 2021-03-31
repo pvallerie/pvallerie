@@ -22,4 +22,6 @@ Here are some ideas to get you started:
 -->
 
 [![Pete's GitHub stats](https://github-readme-stats.vercel.app/api?username=pvallerie)](https://github.com/anuraghazra/github-readme-stats)
+[![Pete's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pvallerie)](https://github.com/anuraghazra/github-readme-stats)
+
 
