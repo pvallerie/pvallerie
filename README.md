@@ -1,8 +1,8 @@
-### Hey there, I'm Pete! 👋
+### Hey there, I'm Pete!
 
-I'm a Full Stack Software Engineer who's career in tech began in a Ski and Bike Shop, continued into the world of streaming TV advertising, and is now leading me into Software Engineering. I've enjoyed working with React, JavaScript, Bootstrap, Python, Django, the MERN stack, and some other technologies - but I can't wait to learn more!
+I'm a Backend Software Engineer who's career in tech began in a Ski and Bike Shop, continued into the world of streaming TV advertising, and has led me into Software Engineering. I've enjoyed working with React, JavaScript, Bootstrap, Python, Django, the MERN stack, and some other technologies - but spend most of my time working with JavaScript, TypeScript, Node.js, and Express.
 
-I live in Portsmouth, NH and work as a Technical Support Engineer for Modo Labs.
+I live in Fort Collins, CO and work as a Software Engineer for Modo Labs.
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/peter-vallerie/) and reach out if you're interested in talking tech, wellness, food, mountain biking, hiking, campaing, skiing, or anything outdoors!
 
